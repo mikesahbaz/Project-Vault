@@ -4,6 +4,9 @@ Project Vault is a social network that allows users to create, share, follow and
 
 If you want to use the app, you need to REGISTER or LOGIN with an already made account. For the environmental variables you'll need a cloudinary account and use the keys they provide you, and a Stripe account with your own Secret key.
 
+**REFACTOR:** The project was fully refactored including adding full-stack testing and refactoring the existing codebase to TypeScript along with code cleanup.
+**REFACTOR TECH STACK:** TypeScript, Jest, Joi, and Supertest.
+
 **TECH STACK**
 
 For the FrontEnd i've used:
